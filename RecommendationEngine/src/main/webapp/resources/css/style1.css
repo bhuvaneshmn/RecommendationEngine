@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import url('https://fonts.googleapis.com/css?family=Raleway:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+
+body {
+	margin: 0px;
+	background-color: pink;
+	background-image: url("/resources/images/bg.png");
+}
+
+
+.home1 {
+	font-family: 'Raleway', sans-serif;
+	margin: 0;
+	padding: 9% 5% 0% 55%;
+	font-size: 50px;
+	color:#ffffff;
+	
+	
+	
+	
+
+	
+}
+color: #ff3333;
+
+.home4 {
+	font-family: 'Raleway', sans-serif;
+	margin: 0.5% 0% 0% 55%;
+	font-size: 40px;
+	color: #000033;
+}
+
+.home3 {
+	font-family: 'Oswald', sans-serif;
+	margin: 0% 0% 0% 55%;
+	font-size: 15px;
+	color: black;
+	background-color: rgba(0, 0, 0, 0.4);
+	display: inline-block;
+
+}
+
+
+.buttonhome {
+	margin: 0% 0% 0% 55%;
+	background: blue;
+	color: black;
+	border: none;
+	height: 50px;
+	font-size: 1.4em;
+	padding: 0 1em;
+	cursor: pointer;
+	outline: none;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 900;
+}
